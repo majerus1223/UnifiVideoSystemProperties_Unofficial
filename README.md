@@ -8,6 +8,5 @@
 ```
 export.tempdir=/path/to/location
 ```
-
 **Versions** 3.5+
 
