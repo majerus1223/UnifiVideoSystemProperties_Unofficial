@@ -1,4 +1,3 @@
-# UnifiVideoSystemProperties_Unofficial
 ## Document the various system.properties options for Unifi Video
 
 # Please use the Wiki
