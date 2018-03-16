@@ -1,14 +1,8 @@
 # UnifiVideoSystemProperties_Unofficial
 ## Document the various system.properties options for Unifi Video
-#### https://community.ubnt.com/t5/UniFi-Video-Beta/List-of-all-system-properties-options-to-add/m-p/2270280#M18271
 
+# Please use the Wiki
 
-
-
-### Increase Timeline Export size -- 3.5+
-
-```
-export.tempdir=/path/to/location
-```
+https://github.com/majerus1223/UnifiVideoSystemProperties_Unofficial/wiki
 
 
